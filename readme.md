@@ -18,6 +18,3 @@ This game looks best on tablet and laptop screens.
 * HTML5
 * CSS3 (gird and Flexbox) for structuring and styling
 * JavaScript for creating the functionality of the game
-
-## Acknowledgements
-
