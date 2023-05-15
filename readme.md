@@ -21,13 +21,3 @@ This game looks best on tablet and laptop screens.
 
 ## Acknowledgements
 
-### Content
-Code for choosing a random word from the array was found on [stackoverflow](https://stackoverflow.com/questions/42211863/pick-a-random-item-from-a-javascript-array) 3rd answer.
-
-The code for adding a class at specific index first answer [here](https://stackoverflow.com/questions/49314884/elementindex-addclass-does-not-work/49314942)
-
-I used [this tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) to help draw the man. 
-
-The code to delete the hangman and get ready for a new game was copied from [here](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/clearRect)
-
-I received inspiration for the words in the array from [Oxford Owl](https://home.oxfordowl.co.uk/english/primary-spelling/spelling-year-5-age-9-10/) and from [kidspot](https://www.kidspot.com.au/parenting/preschool/spelling-bee-words-910/news-story/d2c32eb9af7b81043c71eb0a7d484809). I was looking for words suitable or 9 and 10 year olds. 
